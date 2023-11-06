@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "888935025221",
+    "project_id": "hafazni-476fb",
+    "storage_bucket": "hafazni-476fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888935025221:android:0492944d521e45145b712c",
+        "android_client_info": {
+          "package_name": "com.hafazni.hafazni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888935025221-hujd2gvan530nen8qu5b3aoj8ohph2nt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADAJkM6Kzx1q2Fo9MFAc4o1XiU_FCdIX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888935025221-hujd2gvan530nen8qu5b3aoj8ohph2nt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
